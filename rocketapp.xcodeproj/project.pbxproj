@@ -14,6 +14,7 @@
 		090BFA82231BA3CE0082D4EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 090BFA80231BA3CE0082D4EB /* LaunchScreen.storyboard */; };
 		090BFA8D231BA3CF0082D4EB /* rocketappTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 090BFA8C231BA3CF0082D4EB /* rocketappTests.swift */; };
 		090BFA98231BA3CF0082D4EB /* rocketappUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 090BFA97231BA3CF0082D4EB /* rocketappUITests.swift */; };
+		090BFAA6231BAF200082D4EB /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = 090BFAA5231BAF200082D4EB /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		090BFA93231BA3CF0082D4EB /* rocketappUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rocketappUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		090BFA97231BA3CF0082D4EB /* rocketappUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rocketappUITests.swift; sourceTree = "<group>"; };
 		090BFA99231BA3CF0082D4EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		090BFAA5231BAF200082D4EB /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		090BFA76231BA3CC0082D4EB /* rocketapp */ = {
 			isa = PBXGroup;
 			children = (
+				090BFAA5231BAF200082D4EB /* hustle-on.wav */,
 				090BFA77231BA3CC0082D4EB /* AppDelegate.swift */,
 				090BFA79231BA3CC0082D4EB /* ViewController.swift */,
 				090BFA7B231BA3CC0082D4EB /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				090BFAA6231BAF200082D4EB /* hustle-on.wav in Resources */,
 				090BFA82231BA3CE0082D4EB /* LaunchScreen.storyboard in Resources */,
 				090BFA7F231BA3CE0082D4EB /* Assets.xcassets in Resources */,
 				090BFA7D231BA3CC0082D4EB /* Main.storyboard in Resources */,
